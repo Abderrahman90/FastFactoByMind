@@ -1,0 +1,14 @@
+C:\Users\Abder\source\repos\TestIBMbyMind\bin\Debug\netcoreapp3.1\TestIBMbyMind.exe
+C:\Users\Abder\source\repos\TestIBMbyMind\bin\Debug\netcoreapp3.1\TestIBMbyMind.deps.json
+C:\Users\Abder\source\repos\TestIBMbyMind\bin\Debug\netcoreapp3.1\TestIBMbyMind.runtimeconfig.json
+C:\Users\Abder\source\repos\TestIBMbyMind\bin\Debug\netcoreapp3.1\TestIBMbyMind.runtimeconfig.dev.json
+C:\Users\Abder\source\repos\TestIBMbyMind\bin\Debug\netcoreapp3.1\TestIBMbyMind.dll
+C:\Users\Abder\source\repos\TestIBMbyMind\bin\Debug\netcoreapp3.1\TestIBMbyMind.pdb
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.AssemblyInfoInputs.cache
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.AssemblyInfo.cs
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.csproj.CoreCompileInputs.cache
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.dll
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.pdb
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.genruntimeconfig.cache
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.csproj.AssemblyReference.cache
+C:\Users\Abder\source\repos\TestIBMbyMind\obj\Debug\netcoreapp3.1\TestIBMbyMind.GeneratedMSBuildEditorConfig.editorconfig
